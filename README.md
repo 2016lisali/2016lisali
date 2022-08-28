@@ -1,7 +1,4 @@
-#### You  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  are &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   my 
-![Visitor Count](https://profile-counter.glitch.me/2016lisali/count.svg) 
-
-#### visitor.
+#### You are my &nbsp; ![Visitor Count](https://profile-counter.glitch.me/2016lisali/count.svg) &nbsp; visitor.
 ## :brown_heart::heart::green_heart::blue_heart:Welcome:orange_heart::yellow_heart::purple_heart:	:black_heart:
 
 # Hi 👋, I'm Lisa
