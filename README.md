@@ -2,14 +2,11 @@
 ## :brown_heart::heart::green_heart::blue_heart:Welcome:orange_heart::yellow_heart::purple_heart:	:black_heart:
 
 # Hi 👋, I'm Lisa
+- 👩🏻‍💻 I'm a Junior Full Stack Developer
 
-- 🔭 I’m currently working on [DevPrep](https://github.com/DevPreps/frontend) project
+- 📚 I’m currently learning **TDD, CS61A(Python)**
 
-- 🌱 I’m currently learning **TDD, CS61A(Python)**
-
-- 👯 I’m looking for a **Junior Web Developer** position
-
-- 👨‍💻 My portfolio [https://wonderlisa.netlify.app](https://wonderlisa.netlify.app)
+- 💼 My portfolio [https://wonderlisa.netlify.app](https://wonderlisa.netlify.app)
 
 
 # About My Github
