@@ -4,7 +4,7 @@
 # Hi 👋, I'm Lisa
 - 👩🏻‍💻 I'm a Junior Full Stack Developer
 
-- 📚 I’m currently learning **CS61A(Python)**
+- 📚 I’m currently learning **CS61A(Python)**, **REACT NATIVE**
 
 - 💼 My portfolio [https://wonderlisa.netlify.app](https://wonderlisa.netlify.app)
 
