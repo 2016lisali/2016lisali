@@ -1,5 +1,5 @@
 #### You are my &nbsp; ![Visitor Count](https://profile-counter.glitch.me/2016lisali/count.svg) &nbsp; visitor. (Count from 28 Aug 2022)
-## :brown_heart::heart::green_heart::blue_heart:Welcome:orange_heart::yellow_heart::purple_heart:	:black_heart:
+## :blue_heart::blue_heart::blue_heart::blue_heart:Welcome:blue_heart::blue_heart::blue_heart::blue_heart:
 
 # Hi 👋, I'm Lisa
 - 👩🏻‍💻 I'm a Full Stack Developer
