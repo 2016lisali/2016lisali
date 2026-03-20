@@ -1,8 +1,7 @@
-#### You are my &nbsp; ![Visitor Count](https://profile-counter.glitch.me/2016lisali/count.svg) &nbsp; visitor. (Count from 28 Aug 2022)
 ## :blue_heart::blue_heart::blue_heart::blue_heart:Welcome:blue_heart::blue_heart::blue_heart::blue_heart:
 
 # Hi 👋, I'm Lisa
-- 👩🏻‍💻 I'm a Full Stack Developer
+- 👩🏻‍💻 I’m an experienced Full Stack Developer with a strong background in building and maintaining web applications across both frontend and backend systems. I enjoy solving complex problems, improving existing platforms, and delivering practical solutions that support business operations.
 
 - 💼 My portfolio [https://wonderlisa.netlify.app](https://wonderlisa.netlify.app)
 
